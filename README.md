@@ -36,8 +36,6 @@ Layout:
 ![Layout do projeto](https://github.com/ChristySchott/react-search/blob/master/react-search.PNG)
 
 
-## :zap: Executando
-
 ### Aprendizados:
 
 - More about event handlers
